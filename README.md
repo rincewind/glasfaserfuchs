@@ -33,6 +33,8 @@ Jetzt mit dem Browser auf `http://localhost:8000/beispiel.html` nachsehen.
 Der Glasfaserfuchs basiert auf einer Bring-Your-Own-Fox (BYOF) Philisophie. Der Elefant hällt 
 den Platz warm.
 
+Der Elefant ist vom kenney.nl. Super Sache!
+
 Einfach `glafaavatar.png` mit einer rundlichen Avatar-Version des Fuchses, `glasfaserfuchs.png` 
 mit einer größeren evtl. sogar Ganz-Körper-Version des Fuchses und `graufuchs.png` mit einer 
 Silhouette des gewünschten Fuchses austauschen.
